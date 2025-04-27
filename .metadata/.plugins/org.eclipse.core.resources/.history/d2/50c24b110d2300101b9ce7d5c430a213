@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+/**
+ * 
+ * 
+ */
+
+module ICS_Project2 {
+	
+	requires junit;
+	requires java.desktop;
+}
